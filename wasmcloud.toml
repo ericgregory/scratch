@@ -1,0 +1,9 @@
+name = "scratch"
+language = "tinygo"
+type = "actor"
+version = "0.1.0"
+
+[actor]
+claims = []
+wit_world = "scratch"
+wasm_target = "wasm32-wasi-preview2"

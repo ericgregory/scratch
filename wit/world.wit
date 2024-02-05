@@ -1,0 +1,5 @@
+package wasmcloud:scratch;
+
+world scratch {
+
+}
